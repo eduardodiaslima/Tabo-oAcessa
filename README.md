@@ -1,6 +1,24 @@
-# Welcome to your Expo app 👋
+#Sistema AcessaTaboão
+Sistema de Acesso a Notas Fiscais e Pendências de Pagamento
+Este sistema permite que os cidadãos acessem de forma fácil e rápida suas notas fiscais e todas as pendências de pagamento. Abaixo estão as instruções de como utilizar a plataforma.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Funcionalidades
+Consulta de Notas Fiscais: Visualize todas as suas notas fiscais emitidas.
+Pendências de Pagamento: Acesse a lista de débitos e pagamentos pendentes.
+Resumo de Pagamentos: Confira o resumo de valores pagos e a vencer.
+Notificações: Receba alertas sobre prazos de pagamento e novas notas.
+Como Acessar
+Acesse o Portal: Entre no site do sistema com seu login e senha.
+Tela Inicial: Ao fazer login, você será direcionado à página inicial, onde verá um painel com suas notas fiscais e pendências de pagamento.
+Consulta de Notas: Clique em “Notas Fiscais” para visualizar o histórico completo de notas emitidas.
+Pendências de Pagamento: Clique em “Pendências” para visualizar todos os débitos a pagar.
+Notificações: Fique atento às notificações na sua página principal sobre novos vencimentos e notas.
+Como Pagar
+Selecione o Débito: Na seção de pendências, clique na nota que deseja pagar.
+Escolha a Forma de Pagamento: O sistema oferece opções como boleto bancário, débito automático ou cartão de crédito.
+Confirmar Pagamento: Após escolher a forma de pagamento, clique em "Pagar" e siga as instruções para concluir a transação.
+Suporte
+
 
 ## Get started
 
